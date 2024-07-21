@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![logo](file://127658211.jpg)
 
 # 欢迎来到洪大宇建材市场
 
