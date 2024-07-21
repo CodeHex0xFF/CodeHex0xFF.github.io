@@ -7,8 +7,8 @@
 - 这里有编码所需要的各种建筑材料
 - 没事儿逛一逛
 
-[GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)  
-[GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo?style=social)  
-[GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo)
+[GitHub Stars](https://img.shields.io/github/stars/codehex0xff/codehex0xff.github.io?style=social)  
+[GitHub Forks](https://img.shields.io/github/forks/codehex0xff/codehex0xff.github.io?style=social)  
+[GitHub Issues](https://img.shields.io/github/issues/codehex0xff/codehex0xff.github.io)
 
 [Get Start](https://github.com/codehex0xff)
