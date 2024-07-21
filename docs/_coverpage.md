@@ -1,14 +1,26 @@
 <!-- _coverpage.md -->
 
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-# My Docsify Site
+# 欢迎来到洪大宇建材市场
 
-> 一个神奇的文档网站生成器。
+> 这里有编码所需要的各种建筑材料
 
-- 简单易用
-- 实时预览
-- 友好的 API
+- 没事儿逛一逛
 
-[GitHub](https://github.com/yourusername/your-repo)
+[GitHub](https://github.com/codehex0xff) <i class="fab fa-github"></i>
 [Get Started](#docsify)
+
+<style>
+  .cover {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    text-align: center;
+  }
+  .cover h1 {
+    font-size: 48px;
+  }
+  .cover p {
+    font-size: 20px;
+  }
+</style>
